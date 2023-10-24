@@ -10,7 +10,7 @@
 ## I can
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,mysql,ps,figma)](https://skillicons.dev)
 
-## I'learning
+## I'm learning
 [![My Skills](https://skillicons.dev/icons?i=vue,vite,webpack,ts,babel,git&theme=light)](https://skillicons.dev)
 
 ## I intend to learn
