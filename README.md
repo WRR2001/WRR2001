@@ -1,8 +1,11 @@
 # Hi! I'm WRR
+
+<!--
 <div style="display:flex; gap: 8px; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRR2001&layout=compact&hide_border=true" alt="">
   <img src="https://streak-stats.demolab.com?user=WRR2001&theme=vue&hide_border=true" alt="">
 </div>
+-->
 
 ## I can
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,mysql,ps,figma)](https://skillicons.dev)
