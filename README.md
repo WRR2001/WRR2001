@@ -8,7 +8,7 @@
 -->
 
 ## I can
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,pinia,vite,mysql,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,pinia,vite,mysql,ps,figma&theme=light)](https://skillicons.dev)
 
 ## I'm learning
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,webpack,rollupjs,babel,git&theme=light)](https://skillicons.dev)
