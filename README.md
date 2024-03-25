@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,webpack,rollupjs,babel,git&theme=light)](https://skillicons.dev)
 
 ## I intend to learn
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,threejs,swift,dart,flutter,tailwind,nodejs,nginx,go,ai,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,threejs,swift,dart,flutter,tailwind,nodejs,nginx,go,ai,unity,blender)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 <!--
 **WRR2001/WRR2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
