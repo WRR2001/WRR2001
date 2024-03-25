@@ -8,13 +8,13 @@
 -->
 
 ## I can
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,mysql,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,pinia&theme=light,vite,mysql,ps,figma)](https://skillicons.dev)
 
 ## I'm learning
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,webpack,ts,babel,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,webpack,rollupjs,babel,git&theme=light)](https://skillicons.dev)
 
 ## I intend to learn
-[![My Skills](https://skillicons.dev/icons?i=swift,react,redux,nodejs,blender,go,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,threejs,swift,dart,flutter,tailwind,nodejs,nginx,go,ai,unity,blender)](https://skillicons.dev)
 
 <!--
 **WRR2001/WRR2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
